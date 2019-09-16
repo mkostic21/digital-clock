@@ -1,0 +1,15 @@
+# PlanAhead Generated physical constraints
+
+NET "anode[0]" LOC = C21;
+NET "anode[1]" LOC = D18;
+NET "anode[2]" LOC = D21;
+NET "anode[3]" LOC = V18;
+NET "led_segments[0]" LOC = F24;
+NET "led_segments[1]" LOC = AE23;
+NET "led_segments[2]" LOC = W19;
+NET "led_segments[3]" LOC = Y24;
+NET "led_segments[4]" LOC = K19;
+NET "led_segments[5]" LOC = W18;
+NET "led_segments[6]" LOC = V24;
+NET "dp" LOC = AC24;
+NET "clk" LOC = M21;
